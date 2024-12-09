@@ -81,8 +81,8 @@ img{
  
 @media (max-width: 600px) {
 body{
-    height: 90vmin;
-    width: 90vmin;
+    height: 100vmin;
+    width: 100vmin;
     }
 h2{  
     font-size: 10vw;
