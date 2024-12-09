@@ -79,3 +79,32 @@ img{
 }
 
  
+@media (max-width: 600px) {
+body{
+    height: 90vmin;
+    width: 90vmin;
+    }
+h2{  
+    font-size: 10vw;
+    }
+
+.choices{
+    gap:0.7rem;
+    }
+    
+.choice{
+    height: 110px;
+    width: 110px;  
+    border-radius: 50%;   
+    }
+
+img{
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+#msg{
+        font-size: 5vw;
+    }
+}
